@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Anaya Hall</title>
-    <link>/categories/</link>
+    <link>/ceres/categories/</link>
     <description>Recent content in Categories on Anaya Hall</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ceres/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/categories/development/</link>
+      <link>/ceres/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>/ceres/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>/categories/golang/</link>
+      <link>/ceres/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/golang/</guid>
+      <guid>/ceres/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/categories/projects/</link>
+      <link>/ceres/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/categories/projects/</guid>
+      <guid>/ceres/categories/projects/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "ceres/"
 languageCode = "en-US"
 title = "Anaya Hall"
 # Enable comments by entering your Disqus shortname

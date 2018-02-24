@@ -27,7 +27,6 @@ publishDir = "docs"
   Email         = "anayahall@berkeley.edu"
   Twitter       = "anayahall"
   LinkedIn      = "username"
-  Stackoverflow = "username"
 
 ## Main Menu
 [[menu.main]]

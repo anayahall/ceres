@@ -1,0 +1,22 @@
+name: projects
+source:
+  - icon: fa fa-github
+    description: "Reciprocal Foodshed": Mapping municipal compost resources and working agricultural land in California for feasability, facility siting and greenhouse gas mitigation opportunities. See *peel* on github. 
+
+  - icon: fa fa-github
+    description: achine-learning cow counting.See *cowsat* on github 
+
+  - icon: fa fa-github
+    description: Climate change, CAFOs and environmental Jusitce.see *matthew* on github        
+    
+  - icon: fa fa-globe
+    description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
+
+  - icon: fa fa-globe
+    description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
+
+  - icon: fa fa-cog
+    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+
+  - icon: fa fa-cog
+    description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
